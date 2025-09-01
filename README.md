@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
@@ -59,8 +58,8 @@
 
   <h1>EDUCATION-CLASS CHUTOGEL</h1>
 
-  <a href="https://abso.cc/chutogel-seo-1" class="btn" title="Chutogel Education Gold">Chutogel Education Gold</a>
-  <a href="https://abso.cc/chutogel-seo-1" class="btn red" title="Chutogel Education Red">Chutogel Education Red</a>
+  <a href="https://abso.cc/chutogel-seo-1" class="btn" title="Chutogel Education Gold">CHUTOGEL DAFTAR</a>
+  <a href="https://abso.cc/chutogel-seo-1" class="btn red" title="Chutogel Education Red">CHUTOGEL ALTERNATIF</a>
 
 </body>
 </html>
